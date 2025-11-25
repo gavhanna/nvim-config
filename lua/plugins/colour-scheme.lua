@@ -5,7 +5,7 @@ return {
     priority = 1000,
     config = function()
       require("kanagawa").setup({
-        theme = "dragon", -- ← the important bit
+        theme = "dragon",
       })
     end,
   },
